@@ -1,0 +1,10 @@
+Requisitos:
+Si el usuario no tiene -NET Core SDK
+1. El usuario debe ir al sitio web oficial de .NET Core: [Descargar .NET](https://dotnet.microsoft.com/download).
+2. Desde allí, puede seleccionar la versión de .NET Core SDK adecuada para su sistema operativo y arquitectura (Windows, macOS o Linux).
+3. Una vez descargado el instalador, debe ejecutarlo y seguir las instrucciones de instalación.
+
+Pasos
+1. Con el código fuente de la aplicación en su computadora, el usuario puede abrir una terminal en el directorio donde se encuentra el archivo Program.cs.
+2. Luego, puede ejecutar el comando 'dotnet build' para compilar la aplicación.
+3. Después de que la compilación sea exitosa, puede ejecutar la aplicación utilizando el comando 'dotnet run'.

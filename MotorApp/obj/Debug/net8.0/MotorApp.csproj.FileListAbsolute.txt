@@ -1,0 +1,14 @@
+C:\Users\bruno\Documents\MotorApp\bin\Debug\net8.0\MotorApp.exe
+C:\Users\bruno\Documents\MotorApp\bin\Debug\net8.0\MotorApp.deps.json
+C:\Users\bruno\Documents\MotorApp\bin\Debug\net8.0\MotorApp.runtimeconfig.json
+C:\Users\bruno\Documents\MotorApp\bin\Debug\net8.0\MotorApp.dll
+C:\Users\bruno\Documents\MotorApp\bin\Debug\net8.0\MotorApp.pdb
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.AssemblyInfo.cs
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.dll
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\refint\MotorApp.dll
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.pdb
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\MotorApp.genruntimeconfig.cache
+C:\Users\bruno\Documents\MotorApp\obj\Debug\net8.0\ref\MotorApp.dll
